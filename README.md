@@ -1,4 +1,5 @@
 # Silly String
+your_favorite_word = "happy"
 
 A string in Ruby is an data type that holds words, numbers, and other characters. A string is just data. This lab is going to be a refresher on how to create and manipulate strings. You'll code your solution in `silly_string.rb`
 
@@ -11,6 +12,8 @@ You can run `learn` to see if the tests are passing.
 ## Challenge:
 
 1. Create a string that contains your favorite word. It can be in any language!
+
+
 
 2. Using a method built into ruby, capitalize every letter in the string you just created
 
